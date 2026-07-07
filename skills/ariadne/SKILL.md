@@ -5,7 +5,8 @@ description: Translate a job description into what the job actually is —
   fit analysis. Use whenever the user shares a job description, JD, vacancy,
   job posting, or role description, or asks "what would I actually do in
   this job", "is this role right for me", or seems confused about what a
-  role involves. Also use when comparing multiple roles.
+  role involves. Also use when comparing multiple roles,
+  or when the user pastes any job posting or vacancy text.
 ---
 
 # Ariadne — the thread through the labyrinth
