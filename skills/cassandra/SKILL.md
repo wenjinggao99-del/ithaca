@@ -5,7 +5,7 @@ description: Prophesy how a job interview (or plan) could fail — the hard
   Use whenever the user mentions an upcoming interview, interview prep,
   "what could go wrong", "poke holes in this", "stress test", or asks for
   the hardest questions they might face. Also use to critique plans,
-  applications, or proposals when the user wants brutal honesty.
+  applications, or proposals when the user wants brutal honesty. Mock interview
 ---
 
 # Cassandra — the prophecies nobody wants to hear
